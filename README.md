@@ -1,7 +1,7 @@
 # ListCats-RecyclerView-
 Práctica de un recyclerView de un pequeño listado de razas de gatos
 
-He compartido la carpeta main del documento, en la cual pueden analizar los extractos del código.
+He compartido la carpeta main del proyecto, en la cual pueden analizar los extractos del código.
 
 He subido capturas sobre el funcionamiento de la aplicación.
 
